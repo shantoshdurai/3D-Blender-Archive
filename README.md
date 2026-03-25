@@ -20,11 +20,11 @@ High-resolution planet rendering with **21K Topography Maps**, **10K Color Data*
   <img src="Earth/earth2.png" width="800" alt="Full Earth View" />
 </p>
 
-| Planet Detail (01) | Atmosphere Mix (02) |
+| RENDER_SHOT_01 | RENDER_SHOT_02 |
 | :---: | :---: |
 | <img src="Earth/earth1.png" width="400" /> | <img src="Earth/earth4.png" width="400" /> |
 
-| Night Lighting (03) | Horizon Scatter (04) |
+| RENDER_SHOT_03 | RENDER_SHOT_04 |
 | :---: | :---: |
 | <img src="Earth/earth5.png" width="400" /> | <img src="Earth/earth3.png" width="400" /> |
 
@@ -32,8 +32,3 @@ High-resolution planet rendering with **21K Topography Maps**, **10K Color Data*
 - **Engine:** Blender 4.0+ Cycles
 - **Assets:** Included `.blend` source files (check `/Earth` folder)
 - **Textures:** High-resolution map mix (21K Topography, 8K Clouds)
-
----
-<p align="center">
-  "Keep Wondering. Keep Building."
-</p>
