@@ -1,4 +1,4 @@
-# 🎨 3D Blender Archive
+# 3D Blender Archive
 
 A curated collection of my 3D modeling and rendering work, focused on high-fidelity procedural texturing, atmospheric lighting, and seamless animation loops.
 
@@ -13,7 +13,7 @@ A curated collection of my 3D modeling and rendering work, focused on high-fidel
 
 ---
 
-## 📂 Featured Projects: Atmospheric Earth
+## Featured Projects: Atmospheric Earth
 High-resolution planet rendering with **21K Topography Maps**, **10K Color Data**, and realistic atmospheric scattering.
 
 <p align="center">
